@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+## About
+It is a dashboard showing covide numbers for your state
+A simple react web app, amde in initial days of learning react
+
+![one](./src/demoScreen/one.png)
+![two](./src/demoScreen/two.png)
+![three](./src/demoScreen/three.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
