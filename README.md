@@ -1,6 +1,6 @@
 ## About
-It is a dashboard showing covide numbers for your state
-A simple react web app, amde in initial days of learning react
+It is a dashboard To get live count of Vacinated population , Active cases , deceased and recovered patient count
+A react web app, made in initial days of learning react
 
 ![one](./src/demoScreen/one.png)
 ![two](./src/demoScreen/two.png)
